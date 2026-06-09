@@ -2,7 +2,8 @@
 
 ## About Us
 
-Luxury Presence is the leading growth platform for high-performing real estate agents, teams, and brokerages. The company provides agent-branded websites, advanced marketing tools, and  Presence® CRM, the AI relationship engine that transforms an agent’s sphere into a proactive source of new business. More than 17,000 real estate businesses rely on Luxury Presence to elevate their brand, attract clients, and grow their business, including 30% of the Wall Street Journal RealTrends top agents and teams. Founded in 2016 by CEO Malte Kramer, Luxury Presence has become the unified platform for modern agents, combining premium design, data-driven marketing, and intelligent AI systems that support every stage of the client relationship.
+Luxury Presence is the leading growth platform for high-performing real estate agents, teams, and brokerages. The company provides agent-branded websites, advanced marketing tools, and AI CRM, the relationship engine powered by Presence AI that transforms an agent's sphere into a proactive source of new business. More than 18,000 real estate businesses rely on Luxury Presence to elevate their brand, attract clients, and grow their business, including 30%+ of the Wall Street Journal RealTrends top agents and teams. Founded in 2016 by CEO Malte Kramer, Luxury Presence has become the unified platform for modern agents, combining premium design, data-driven marketing, and intelligent AI systems that support every stage of the client relationship.
+Luxury Presence has raised $89M from notable investors including Bessemer Venture Partners, Switch Ventures, NextEquity, Toba Capital, Zillow Co-Founder Spencer Rascoff, real estate coach Tom Ferry, NBA Champion Dirk Nowitzki, and NFL Pro Larry Fitzgerald. The company has offices in Austin, Phoenix, Denver, and New York City.
 
 ## Who we are
 
